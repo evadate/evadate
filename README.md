@@ -8,6 +8,7 @@
   - I'm a experienced developer.
   - Proficient in more than 2 langauges
   - I love to code
+  - Software Developer
 
 </p>
 
