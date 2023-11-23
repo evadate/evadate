@@ -7,6 +7,7 @@
 
   - I'm a experienced developer.
   - Proficient in more than 2 langauges
+  - Current Learning App & Game Development
   - I love to code
   - Software Developer
 
