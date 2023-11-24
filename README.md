@@ -5,9 +5,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-  - I'm a experienced developer.
-  - Proficient in more than 2 langauges
-  - Current Learning App & Game Development
+  - I'm an experienced developer.
+  - Currently Learning App & Game Development
   - I love to code
   - Software Developer
 
