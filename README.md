@@ -1,4 +1,4 @@
-# Hello, my name is evadate 👋
+# Hello, my name is evádete  👋
 <!-- About Section -->
  # About me
  
